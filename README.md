@@ -2,12 +2,16 @@ Welcome To Weather Information Service
 Please follow below instructions to run this web application
 
 Prerequisite
+
 1) Download & Install Apache Maven 3.1.1
 	http://maven.apache.org/download.cgi
 	Please run "mvn -version" from command prompt to check if maven installation done successfully.
+	
 2) Download & Install JDK 1.7 or JRE7
    Set JAVA_HOME
+   
 3) Your system should have internet access to download maven dependencies & to connect web API to get current weather information.
+
 4) Download & Install Tomcat 7 if want to deploy in standalone tomcat. Also Set TOMCAT_HOME
 
 ******************************************************************************************
